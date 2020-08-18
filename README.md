@@ -1,0 +1,1 @@
+This is a project to learn the intricacies of Git, using the Odin Project.
